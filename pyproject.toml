@@ -1,0 +1,16 @@
+[project]
+name = "text-to-sql-analytics"
+version = "0.1.0"
+description = "Ask a PostgreSQL sales database questions in plain English; get the SQL, a table and a chart."
+requires-python = ">=3.11"
+
+[tool.setuptools]
+packages = ["sqlchat"]
+
+[tool.pytest.ini_options]
+pythonpath = ["."]
+testpaths = ["tests"]
+[batch_insert]
+enabled = true
+[handle_error]
+enabled = true
