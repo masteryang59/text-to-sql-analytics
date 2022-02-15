@@ -45,3 +45,4 @@
 {"id": "refuse-forecast", "tags": ["refuse"], "question": "Forecast revenue for next quarter", "gold": null}
 {"id": "refuse-off-topic", "tags": ["refuse"], "question": "What's the weather in Berlin?", "gold": null}
 # calculate_hash
+# calculate_hash
