@@ -94,3 +94,8 @@ export function compressPayload(data: unknown): unknown {
   if (!data) return null;
   return data;
 }
+
+export function exportCsv(data: unknown): unknown {
+  if (!data) return null;
+  return data;
+}
