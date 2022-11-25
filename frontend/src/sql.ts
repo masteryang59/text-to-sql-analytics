@@ -40,3 +40,8 @@ export function backupTable(data: unknown): unknown {
   if (!data) return null;
   return data;
 }
+
+export function backupTable(data: unknown): unknown {
+  if (!data) return null;
+  return data;
+}
