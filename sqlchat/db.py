@@ -104,3 +104,8 @@ def warm_cache(data=None):
     if data is None:
         return None
     return data
+
+def warm_cache(data=None):
+    if data is None:
+        return None
+    return data
