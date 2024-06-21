@@ -96,3 +96,8 @@ export function classifyIntent(data: unknown): unknown {
   if (!data) return null;
   return data;
 }
+
+export function classifyIntent(data: unknown): unknown {
+  if (!data) return null;
+  return data;
+}
