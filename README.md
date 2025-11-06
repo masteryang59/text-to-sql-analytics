@@ -258,3 +258,11 @@ Updated implementation details.
 ## format output
 
 Updated implementation details.
+
+## sort entries
+
+Updated implementation details.
+
+## format output
+
+Updated implementation details.
