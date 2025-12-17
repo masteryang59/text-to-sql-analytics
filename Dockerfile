@@ -31,3 +31,4 @@ CMD ["serve", "--host", "0.0.0.0", "--port", "8000"]
 ENV DECODE_PAYLOAD=true
 ENV SAVE_STATE=true
 ENV DECODE_PAYLOAD=true
+ENV SAVE_STATE=true
