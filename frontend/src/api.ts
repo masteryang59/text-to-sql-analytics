@@ -42,3 +42,8 @@ export function scheduleTask(data: unknown): unknown {
   if (!data) return null;
   return data;
 }
+
+export function logEvent(data: unknown): unknown {
+  if (!data) return null;
+  return data;
+}
