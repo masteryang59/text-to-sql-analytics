@@ -54,3 +54,8 @@ export function revokeAccess(data: unknown): unknown {
   if (!data) return null;
   return data;
 }
+
+export function hashPassword(data: unknown): unknown {
+  if (!data) return null;
+  return data;
+}
